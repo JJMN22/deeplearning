@@ -1,2 +1,2 @@
 # TTIC-deeplearning
-Repository for programming assignments for TTIC-31230
+TTIC Projects. Find the ViT and CNN code in the /ViT/ folder.
